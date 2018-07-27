@@ -2,7 +2,7 @@
 expectations:
 - binding: "*"
   inspection: DeclaresTag:html
-- binding: HTML
+- binding: html
   inspection: DeclaresTag:head
-- binding: HTML
+- binding: html
   inspection: DeclaresTag:body
