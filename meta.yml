@@ -1,0 +1,10 @@
+---
+name: 'Atomo 1: Primer HTML'
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: html
+id_format: "%05d"
+order:
+- 1
