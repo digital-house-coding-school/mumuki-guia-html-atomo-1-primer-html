@@ -1,8 +1,8 @@
 ---
 expectations:
 - binding: "*"
-  inspection: DeclaresTag:HTML
+  inspection: DeclaresTag:html
 - binding: HTML
-  inspection: DeclaresTag:HEAD
+  inspection: DeclaresTag:head
 - binding: HTML
-  inspection: DeclaresTag:BODY
+  inspection: DeclaresTag:body
