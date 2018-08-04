@@ -14,5 +14,5 @@ expectations:
   inspection: DeclaresTag:ol
 - binding: ol
   inspection: DeclaresTag:li
-- binding: ol > li
+- binding: ol
   inspection: DeclaresAttribute:start
