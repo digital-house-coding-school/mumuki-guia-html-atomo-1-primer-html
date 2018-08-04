@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:html
+- binding: html
+  inspection: DeclaresTag:head
+- binding: html
+  inspection: DeclaresTag:body
+- binding: body
+  inspection: DeclaresTag:ul
+- binding: ul
+  inspection: DeclaresTag:li
+- binding: body
+  inspection: DeclaresTag:ol
+- binding: ol
+  inspection: DeclaresTag:li
+- binding: ol li
+  inspection: DeclaresAttribute:start
