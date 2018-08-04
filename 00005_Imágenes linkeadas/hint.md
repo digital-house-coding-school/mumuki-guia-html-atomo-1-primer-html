@@ -1,0 +1,1 @@
+En este caso debes incluir la etiqueta `<img>` dentro de la etiqueta `<a>`
