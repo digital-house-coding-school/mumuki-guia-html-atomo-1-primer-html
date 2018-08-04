@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: head
+  inspection: DeclaresTag:link
+- binding: link
+  inspection: DeclaresAttribute:href
+- binding: link
+  inspection: DeclaresAttribute:rel

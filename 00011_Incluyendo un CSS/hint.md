@@ -1,0 +1,1 @@
+La etiqueta correcta para este ejercicio es `<link>` que va dentro del `<head>`
