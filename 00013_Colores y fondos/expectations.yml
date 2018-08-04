@@ -3,8 +3,6 @@ expectations:
 - binding: css:body
   inspection: DeclaresStyle:background-size:cover
 - binding: h1
-  inspection: DeclaresStyle:background-color:rgba(0,0,0,0.5)
-- binding: h1
   inspection: DeclaresStyle:color:#00FFFF
 - binding: h2
   inspection: DeclaresStyle:background-color:black
