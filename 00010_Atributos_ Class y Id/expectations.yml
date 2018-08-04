@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: h1
+  inspection: DeclaresAttribute:id
+- binding: h2
+  inspection: DeclaresClass:sin-negrita
+- binding: h1
+  inspection: DeclaresClass:sin-negrita
