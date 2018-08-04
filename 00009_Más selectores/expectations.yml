@@ -5,4 +5,4 @@ expectations:
 - binding: css:.negrita
   inspection: DeclaresStyle:font-weight:bold
 - binding: css:#gigante
-  inspection: DeclaresStyle:text-size:40px
+  inspection: DeclaresStyle:font-size:40px
