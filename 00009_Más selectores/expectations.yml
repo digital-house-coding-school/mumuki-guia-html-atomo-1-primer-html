@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: css:p
-  inspection: DeclaresStyle:red
+  inspection: DeclaresStyle:color:red
