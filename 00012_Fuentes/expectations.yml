@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: css:p
+  inspection: DeclaresStyle:font-family:Arial
+- binding: css:p
+  inspection: DeclaresStyle:font-size:25px
+- binding: css:p
+  inspection: DeclaresStyle:font-weight:bold
+- binding: css:p
+  inspection: DeclaresStyle:font-style:italic
+- binding: css:p
+  inspection: DeclaresStyle:text-decoration:underline
+- binding: css:p
+  inspection: DeclaresStyle:text-align:center
