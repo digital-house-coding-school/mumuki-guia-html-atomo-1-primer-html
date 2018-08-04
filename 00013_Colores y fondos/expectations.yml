@@ -5,4 +5,4 @@ expectations:
 - binding: css:h2
   inspection: DeclaresStyle:background-color:black
 - binding: css:h2
-  inspection: DeclaresStyle:color:#00FFFF
+  inspection: DeclaresStyle:color:#EEEE0C
