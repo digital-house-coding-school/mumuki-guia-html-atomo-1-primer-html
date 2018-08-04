@@ -1,10 +1,8 @@
-Utilizando la etiqueta `<iframe>` agreguemos un video de youtube.
+Utilizando la etiqueta `<iframe>` agreguemos un video de Youtube. No vamos a escribir la etiqueta desde cero si no que te pedimos que obtengas el iframe que nos provee youtube en http://bit.do/youtube-blend
 
-Pueden utilizar el video que se encuentra en `http://bit.do/youtube-blend` o cualquier otro.
+Además, es una buena instancias para experimentar con algunos atributos que pueden aparecer en la etiqueta `<iframe>` y cambiar sus valores
 
-Además, te vamos a pedir que experimentes con algunos atributos que pueden aparecer en la etiqueta `<iframe>`
-
-Estos son:
+Algunos interesantes son:
 
 > * frameborder
 > * width

@@ -1,3 +1,1 @@
-¡No olvides utilizar utilizar el atributo `src` que indica donde esta la página web a incluir!
-
-Además, tengamos en cuenta que la etiqueta `<iframe>` lleva etiqueta de apertura y de clausura
+En caso de no recordarlo, en el video de Youtube podemos clickear en la opción de "Compartir" y en la opción de "Insertar" para obtener el `iframe` que nos provee Youtube
