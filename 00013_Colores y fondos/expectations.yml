@@ -11,4 +11,4 @@ expectations:
 - binding: css:h1
   inspection: DeclaresStyle:background-color:rgba(0,0,0,0.5)
 - binding: css:body
-  inspection: DeclaresStyle:background-image:url("http://bit.do/fondo-blend")
+  inspection: DeclaresStyle:background-image:url('http://bit.do/fondo-blend')
