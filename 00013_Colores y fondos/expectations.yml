@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: h2
+- binding: css:h2
   inspection: DeclaresStyle:opacity:0.8
