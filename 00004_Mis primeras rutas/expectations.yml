@@ -1,0 +1,16 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:html
+- binding: html
+  inspection: DeclaresTag:head
+- binding: html
+  inspection: DeclaresTag:body
+- binding: body
+  inspection: DeclaresTag:a
+- binding: a
+  inspection: DeclaresAttribute:href
+- binding: body
+  inspection: DeclaresTag:img
+- binding: img
+  inspection: DeclaresAttribute:src
