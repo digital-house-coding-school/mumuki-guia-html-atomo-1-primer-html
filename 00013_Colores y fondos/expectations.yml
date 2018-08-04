@@ -6,3 +6,7 @@ expectations:
   inspection: DeclaresStyle:background-color:black
 - binding: css:h2
   inspection: DeclaresStyle:color:#EEEE0C
+- binding: css:h1
+  inspection: DeclaresStyle:color:#EEEE0C
+- binding: css:h1
+  inspection: DeclaresStyle:background-color:rgba(0,0,0,0.5)
