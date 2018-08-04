@@ -1,10 +1,10 @@
 ---
 expectations:
 - binding: "*"
-  inspection: DeclaresTag:HTML
-- binding: HTML
+  inspection: DeclaresTag:html
+- binding: html
   inspection: DeclaresTag:head
-- binding: HTML
+- binding: html
   inspection: DeclaresTag:body
 - binding: body
   inspection: DeclaresTag:h1
