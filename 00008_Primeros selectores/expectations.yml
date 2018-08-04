@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: css:body
+  inspection: DeclaresRule:p
