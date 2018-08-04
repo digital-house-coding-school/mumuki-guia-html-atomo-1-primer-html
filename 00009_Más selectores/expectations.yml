@@ -2,3 +2,7 @@
 expectations:
 - binding: css:p
   inspection: DeclaresStyle:color:red
+- binding: css:.negrita
+  inspection: DeclaresStyle:font-weight:bold
+- binding: css:#gigante
+  inspection: DeclaresStyle:text-size:40px
