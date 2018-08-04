@@ -1,4 +1,8 @@
 ---
 expectations:
 - binding: css:h2
-  inspection: DeclaresStyle:opacity:0.8
+  inspection: DeclaresStyle:opacity:0.6
+- binding: css:h2
+  inspection: DeclaresStyle:background-color:black
+- binding: css:h2
+  inspection: DeclaresStyle:color:#00FFFF
