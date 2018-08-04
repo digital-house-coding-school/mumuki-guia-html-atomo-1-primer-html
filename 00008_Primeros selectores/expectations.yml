@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: css:p
-  inspection: DeclaresStyle:color:red
+- binding: "*"
+  inspection: DeclaresTag:html
