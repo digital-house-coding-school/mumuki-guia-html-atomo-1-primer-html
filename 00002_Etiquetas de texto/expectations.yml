@@ -1,0 +1,14 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:HTML
+- binding: HTML
+  inspection: DeclaresTag:head
+- binding: HTML
+  inspection: DeclaresTag:body
+- binding: body
+  inspection: DeclaresTag:h1
+- binding: body
+  inspection: DeclaresTag:h2
+- binding: body
+  inspection: DeclaresTag:p
