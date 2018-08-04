@@ -1,0 +1,18 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:html
+- binding: html
+  inspection: DeclaresTag:body
+- binding: html
+  inspection: DeclaresTag:head
+- binding: body
+  inspection: DeclaresTag:iframe
+- binding: iframe
+  inspection: DeclaresAttribute:src
+- binding: iframe
+  inspection: DeclaresAttribute:frameborder
+- binding: iframe
+  inspection: DeclaresAttribute:width
+- binding: iframe
+  inspection: DeclaresAttribute:height
