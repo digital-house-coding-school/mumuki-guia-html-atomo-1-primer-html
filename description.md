@@ -1,1 +1,1 @@
-Veamos como crear nuestro primer documento HTML junto con la estructura básica.
+Ejercicios para la clase 1
