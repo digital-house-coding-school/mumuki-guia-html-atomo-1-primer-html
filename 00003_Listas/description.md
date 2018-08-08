@@ -9,6 +9,7 @@ Primero, una lista de colores:
 > * Amarillo
 
 Luego, una lista de películas **comenzando por el número 10**
+Para esto último te recomendamos revisar el siguiente [link](https://www.w3schools.com/tags/att_ol_start.asp)
 
 > 1. Toy Story
 > 2. Buscando a Nemo
