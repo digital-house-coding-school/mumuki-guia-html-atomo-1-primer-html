@@ -12,3 +12,5 @@ expectations:
   inspection: DeclaresStyle:background-color:rgba(0,0,0,0.5)
 - binding: css:body
   inspection: DeclaresStyle:background-size:cover
+- binding: css:body
+  inspection: DeclaresStyle:color:red
