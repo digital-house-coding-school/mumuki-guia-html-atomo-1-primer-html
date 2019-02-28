@@ -14,10 +14,10 @@ expectations:
   inspection: DeclaresTag:a
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: a
-  inspection: DeclaresAttribute:href
+  inspection: DeclaresAttribute:href="https://google.com"
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
   inspection: DeclaresTag:img
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: img
-  inspection: DeclaresAttribute:src
+  inspection: DeclaresAttribute:src="http://bit.do/imagen-blend"
