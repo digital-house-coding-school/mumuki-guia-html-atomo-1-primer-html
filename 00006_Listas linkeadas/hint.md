@@ -1,3 +1,3 @@
-Deberías escribir una etiqueta `<ul>` con sus respectivos `<li>`
+Para empezar, escribí una etiqueta `<ul>` con sus respectivos `<li>`
 
-Dentro de cada `<li>` debería haber una etiqueta `<a>`
+Dentro de cada `<li>` recordá agregar la etiqueta `<a>` para crear tus hipervínculos
