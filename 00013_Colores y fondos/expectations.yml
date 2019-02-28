@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: css:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h2
   inspection: DeclaresStyle:opacity:0.6
-- binding: css:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h2
   inspection: DeclaresStyle:background-color:black
-- binding: css:h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h2
   inspection: DeclaresStyle:color:#EEEE0C
-- binding: css:h1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h1
   inspection: DeclaresStyle:color:#EEEE0C
-- binding: css:h1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:h1
   inspection: DeclaresStyle:background-color:rgba(0,0,0,0.5)
-- binding: css:body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:body
   inspection: DeclaresStyle:background-size:cover

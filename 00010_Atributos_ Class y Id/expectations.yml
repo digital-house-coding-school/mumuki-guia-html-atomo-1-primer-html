@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: h1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: h1
   inspection: DeclaresAttribute:id
-- binding: h2
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: h2
   inspection: DeclaresAttribute:class
-- binding: h1
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: h1
   inspection: DeclaresAttribute:class

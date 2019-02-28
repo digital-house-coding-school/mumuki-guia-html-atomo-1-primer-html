@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: css:p
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:p
   inspection: DeclaresStyle:color:red
-- binding: css:.negrita
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:.negrita
   inspection: DeclaresStyle:font-weight:bold
-- binding: css:#gigante
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: css:#gigante
   inspection: DeclaresStyle:font-size:40px

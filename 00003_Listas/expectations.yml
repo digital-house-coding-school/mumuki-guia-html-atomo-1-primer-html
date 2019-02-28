@@ -1,18 +1,26 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresTag:html
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:head
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:body
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:ul
-- binding: ul
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ul
   inspection: DeclaresTag:li
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:ol
-- binding: ol
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ol
   inspection: DeclaresTag:li
-- binding: ol
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: ol
   inspection: DeclaresAttribute:start

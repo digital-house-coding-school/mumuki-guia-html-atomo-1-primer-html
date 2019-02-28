@@ -1,18 +1,26 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresTag:html
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:body
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:head
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:iframe
-- binding: iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iframe
   inspection: DeclaresAttribute:src
-- binding: iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iframe
   inspection: DeclaresAttribute:frameborder
-- binding: iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iframe
   inspection: DeclaresAttribute:width
-- binding: iframe
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: iframe
   inspection: DeclaresAttribute:height
