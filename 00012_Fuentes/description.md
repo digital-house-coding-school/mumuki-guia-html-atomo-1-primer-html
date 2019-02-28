@@ -1,4 +1,4 @@
-En este caso vamos a pedirte que le agregues varias propiedades tipográficas al parrafo del sitio web.
+En este caso vamos a pedirte que le agregues varias propiedades tipográficas al párrafo del sitio web.
 
 Las condiciones son las siguientes
 
