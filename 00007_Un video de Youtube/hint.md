@@ -1,1 +1,1 @@
-En caso de no recordarlo, en el video de Youtube podemos clickear en la opción de "Compartir" y en la opción de "Insertar" para obtener el `iframe` que nos provee Youtube
+En el video de Youtube podemos clickear en la opción de "Compartir" y luego en la opción de "Insertar" para obtener el `iframe` que nos provee Youtube
