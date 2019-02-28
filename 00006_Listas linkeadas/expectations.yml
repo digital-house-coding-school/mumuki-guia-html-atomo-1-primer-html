@@ -19,5 +19,5 @@ expectations:
   binding: li
   inspection: DeclaresTag:a
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: li:nth-child(1) a
+  binding: li
   inspection: DeclaresAttribute:href="https://facebook.com"
