@@ -1,6 +1,6 @@
 ¡Vamos a hacer algunas listas!
 
-En este caso te pedimos que utilizando las etiquetas aprendidas (¡y los atributos también!) repliques dos listas.
+En este caso te pedimos que, utilizando las etiquetas aprendidas (¡y los atributos también!), repliques dos listas.
 
 Primero, una lista de colores:
 
