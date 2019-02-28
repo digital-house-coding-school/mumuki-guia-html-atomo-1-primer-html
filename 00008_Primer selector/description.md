@@ -1,6 +1,6 @@
 ¡Hora de escribir CSS!
 
-En tu solución vamos a escribir directamente código CSS para modificar el estilo de un HTML ya pre-armado.
+Vamos a modificar el estilo de un HTML ya pre-armado usando código CSS.
 
 Para empezar te vamos a pedir un solo selector:
 
