@@ -1,10 +1,11 @@
-¡Hora de practicar las etiquetas de texto! :book:
+Hora de praticar etiquetas de texto! :book:
 
-Vamos a incluir 3 etiquetas dentro de nuestro sitio HTML para verificar el uso de las mismas.
-Las etiquetas que te pedimos en este caso son:
+Vamos incluir 3 etiquetas dentro do nosso site HTML para verificar o uso das mesmas.
+As etiquetas que te pedimos neste caso são:
 
 > * \<h1\>
 > * \<h2\>
 > * \<p\>
 
-No olvides ponerles contenido para poder visualizar cómo se verá la página web.
+
+Não se esqueça de adicionar conteúdo para ver como ficará a página.
