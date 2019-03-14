@@ -1,1 +1,1 @@
-Ejercicios para la clase 1
+Exercícios para aula 1
