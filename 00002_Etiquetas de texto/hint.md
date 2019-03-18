@@ -1,1 +1,1 @@
-Lembre-se que o conteúdo SEMPRE fica dentro da tag **body**.
+Acordate que el contenido de nuestra página SIEMPRE va dentro de la etiqueta **body**.
