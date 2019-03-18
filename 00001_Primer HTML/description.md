@@ -1,14 +1,14 @@
-Hora de escrever nosso primeiro HTML! :muscle:
+Hora de escribir nuestro primer HTML! :muscle:
 
-Você se lembra da estrutura básica?
+Te acordás de la estructura básica?
 
-Todo documento HTML tem pelo menos 3 etiquetas essenciais:
+Todo documento HTML tiene por lo menos 3 etiquetas esenciales:
 
 1. HTML
 2. head
 3. body
 
 
-É hora de você escrever um documento que tenha essa estrutura.
+Es hora de que escribas un documento que tenga esta estructura.
 
-> É um bom momento para colocar algum conteúdo dentro do **body** e também experimentar a tag **title** dentro do **head**
+> Además, es un buen momento para colocar algún contenido dentro de **body** y también experimentar con la etiqueta **title** dentro de **head**
