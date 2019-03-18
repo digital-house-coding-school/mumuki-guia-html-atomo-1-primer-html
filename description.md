@@ -1,1 +1,1 @@
-Exercícios para aula 1
+Ejercicio para la primer clase de HTML y CSS en el curso de FSWD Blend en Digital House
