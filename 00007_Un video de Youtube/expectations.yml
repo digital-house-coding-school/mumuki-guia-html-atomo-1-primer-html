@@ -5,10 +5,10 @@ expectations:
   inspection: DeclaresTag:html
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html
-  inspection: DeclaresTag:body
+  inspection: DeclaresTag:head
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html
-  inspection: DeclaresTag:head
+  inspection: DeclaresTag:body
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: body
   inspection: DeclaresTag:iframe
